@@ -1,4 +1,4 @@
-import string #This line defines string so as to be able to get rid of punctuation.
+import string
 import re
 
 name = raw_input("Enter file:")
